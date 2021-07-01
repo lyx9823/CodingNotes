@@ -9,7 +9,7 @@
 [9. 用两个栈实现队列](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/09.%20%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md)  
 [30. 包含 min 函数的栈](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/30.%20%E5%8C%85%E5%90%AB%20min%20%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)  
 [31. 栈的压入、弹出序列](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/31.%20%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)  
-40. 最小的 K 个数  
+[40. 最小的 K 个数](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/40.%20%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0.md)  
 41.1 数据流中的中位数  
 41.2 字符流中第一个不重复的字符  
 59. 滑动窗口的最大值  
