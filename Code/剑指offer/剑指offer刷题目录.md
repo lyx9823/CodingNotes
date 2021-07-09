@@ -14,8 +14,8 @@
 [59. 滑动窗口的最大值](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/59.%20%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md)
 
 # 双指针
-[57.1 和为 S 的两个数字](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/57.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)  
-57.2 和为 S 的连续正数序列  
+[57 和为 S 的两个数字](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/57.%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)  
+[57.2 和为 S 的连续正数序列](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/57.2%20%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.md)  
 58.1 翻转单词顺序列  
 58.2 左旋转字符串  
 
