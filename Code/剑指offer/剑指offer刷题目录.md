@@ -20,8 +20,7 @@
 [58.2 左旋转字符串](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/58.2%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)  
 
 # 链表
-6. 从尾到头打印链表  
-
+[6. 从尾到头打印链表](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/06.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)  
 18.1 在 O(1) 时间内删除链表节点  
 18.2 删除链表中重复的结点  
 22. 链表中倒数第 K 个结点  
