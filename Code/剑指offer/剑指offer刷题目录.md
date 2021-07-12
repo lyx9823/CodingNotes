@@ -16,8 +16,8 @@
 
 ## 链表
 [6. 从尾到头打印链表](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/06.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)  
-18.1 在 O(1) 时间内删除链表节点  
-18.2 删除链表中重复的结点  
+[18.1 在 O(1) 时间内删除链表节点](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/18.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9.md)  
+[18.2 删除链表中重复的结点(LeetCode 83)](https://github.com/lyx9823/CS_Notes/blob/main/Code/%E5%89%91%E6%8C%87offer/18.2(LeetCode%2083)%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)  
 22. 链表中倒数第 K 个结点  
 23. 链表中环的入口结点  
 24. 反转链表  
