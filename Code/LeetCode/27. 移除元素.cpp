@@ -21,7 +21,7 @@ public:
     }
 };
 
-// offitial solution
+// offitial solution: https://leetcode.cn/problems/remove-element/solutions/730203/yi-chu-yuan-su-by-leetcode-solution-svxi/
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
