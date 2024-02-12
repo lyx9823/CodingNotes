@@ -1,3 +1,4 @@
+// my solution
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -28,3 +29,21 @@ public:
         return res;
     }
 };
+
+
+// offitial solution: https://leetcode.cn/problems/two-sum/solutions/434597/liang-shu-zhi-he-by-leetcode-solution/
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> hashtable;
+        for (int i = 0; i < nums.size(); ++i) {
+            auto it = hashtable.find(target - nums[i]);
+            if (it != hashtable.end()) {
+                return {it->second, i};
+            }
+            hashtable[nums[i]] = i;
+        }
+        return {};
+    }
+};
+
