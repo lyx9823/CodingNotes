@@ -2,6 +2,8 @@
 [2024/01/11 update]  
 Long way to go...  
   
+
+
   
 ## Code
 ### [LeetCode Note](https://github.com/lyx9823/CodingNotes/tree/main/Code/LeetCode)  
@@ -30,6 +32,10 @@ Long way to go...
 383. 赎金信  
 15. 三数之和  **[双指针!!]**  
 18. 四数之和   
+
+**[链表]**
+344. 反转字符串
+541. 反转字符串II
   
   
 ### [剑指offer Note](https://github.com/lyx9823/CS_Notes/tree/main/Code/%E5%89%91%E6%8C%87offer)
