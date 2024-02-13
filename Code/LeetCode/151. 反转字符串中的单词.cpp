@@ -9,7 +9,7 @@ public:
                 left--;
             }
             // 找到单词尾
-            right = left+1;
+            right = left;
             
             // 找到单词头
             while((left>=0) && (s[left]!=' ')) {
@@ -17,8 +17,8 @@ public:
             }
 
             // 跳过字符串头部空格
-            if(right>0) {
-                res.append(s.substr(left+1, right-left-1)+" ");
+            if(right>=0) {
+                res.append(s.substr(left+1, right-left)+" ");
                 right = left;
             }   
         }
