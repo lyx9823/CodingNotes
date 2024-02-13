@@ -14,11 +14,12 @@ public:
     string reverseStr(string s, int k) {
         int len = s.length();
         for(int i=0; i<len; i=i+k*2) {
-            if(i+k >= len) {
-                reverseString(s, i, len-1);
-            } else {
-                reverseString(s, i, i+k-1);
-            }
+            // if(i+k >= len) {
+            //     reverseString(s, i, len-1);
+            // } else {
+            //     reverseString(s, i, i+k-1);
+            // }
+            reverseString(s, i, min(i+k, len)-1);
         }
         return s;
     }
