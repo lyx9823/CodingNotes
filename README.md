@@ -1,7 +1,9 @@
 # CodingNotes
 [2024/01/11 update]  
 Long way to go...  
-\ 
+
+  
+
 ## Code
 ### [LeetCode Note](https://github.com/lyx9823/CodingNotes/tree/main/Code/LeetCode)  
 **[数组]**  
@@ -33,7 +35,9 @@ Long way to go...
 **[链表]**  
 344. 反转字符串  
 541. 反转字符串II  
-\ 
+
+  
+
 ### [剑指offer Note](https://github.com/lyx9823/CS_Notes/tree/main/Code/%E5%89%91%E6%8C%87offer)
 [剑指offer刷题目录](https://github.com/lyx9823/CodingNotes/blob/main/Code/%E5%89%91%E6%8C%87offer/%E5%89%91%E6%8C%87offer%E5%88%B7%E9%A2%98%E7%9B%AE%E5%BD%95.md)
 
