@@ -6,18 +6,20 @@ public:
         
         for(int i=0; i<s.length(); i++) {
             char temp = s[i];
-            if(((temp == ')') || (temp == '}') || (temp == ']')) && res.empty()) {
-                return false;
-            }else if((temp == ')') && (res.top() == '(')) {
-                res.pop();
-            }else if((temp == '}') && (res.top() == '{')) {
-                res.pop();
-            }else if((temp == ']') && (res.top() == '[')) {
-                res.pop();
-            }else if((temp == '(') || (temp == '{') || (temp == '[')) {
+            if((temp == '(') || (temp == '{') || (temp == '[')){
                 res.push(temp);
-            }else {
-                return false;
+            } else {
+                if(((temp == ')') || (temp == '}') || (temp == ']')) && res.empty()) {
+                    return false;
+                }else if((temp == ')') && (res.top() == '(')) {
+                    res.pop();
+                }else if((temp == '}') && (res.top() == '{')) {
+                    res.pop();
+                }else if((temp == ']') && (res.top() == '[')) {
+                    res.pop();
+                } else {
+                    return false;
+                }
             }
         }
         
